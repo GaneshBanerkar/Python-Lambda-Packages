@@ -5,9 +5,10 @@ Currently include support for:
 
 The project can be used by any python lambda project.
 
-
-
-Installation:
+Installation
 
 pip install pymysql -t C:\Users\GaneshB\Desktop\MyPythonLambda
+
+Usage
+
 
