@@ -3,7 +3,7 @@ This library is used to connect MySQL database using aws lambda python.
 Currently include support for:
 .pymysql - python
 
-The project can be used by any python lambda project.
+This library can be used by any python lambda project.
 
 Installation
 
