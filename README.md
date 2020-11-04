@@ -11,4 +11,10 @@ pip install pymysql -t C:\Users\GaneshB\Desktop\MyPythonLambda
 
 Usage
 
+import pymysql
+
+{
+    python code
+}
+
 
